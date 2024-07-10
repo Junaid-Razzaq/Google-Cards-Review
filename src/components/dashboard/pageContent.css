@@ -1,0 +1,25 @@
+.page-content {
+    margin-left: 280px; /* Adjust for the width of the sidebar */
+    padding: 20px;
+    background-color: whitesmoke;
+  }
+  
+  
+  .page-content .MuiGrid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .page-content .MuiCard-root {
+    width: 100%;
+  }
+  
+  .page-content .MuiCardContent-root {
+    text-align: center;
+  }
+  
+  .page-content .chart-container {
+    margin-top: 20px;
+  }
+  
